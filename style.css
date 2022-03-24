@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(83, 241, 21);
+}
+
+
+.nude {
+    position: absolute;
+    margin-left: 600px;
+    font-size: 100px;
+    margin-top: -400px;
+    text-decoration: none;
+}
+
+.nude a{
+    text-decoration: none;
+    color: rgb(241, 128, 147);
+}
+
+.haram {
+    font-size: 70px;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+.alarm2 {
+    position: absolute;
+    margin-left: 1300px;
+}
+
+.alarm {
+    position: absolute;
+    margin-right: 100px;
+}
+
+.uitroep {
+    position: absolute;
+    margin-left: 300px;
+}
+
+.uitroep2 {
+    position: absolute;
+    margin-left: 1000px;
+}
+
+.arab {
+    margin-left: 300px;
+    margin-top: 300px;
+}
+
+.angry {
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 300px;
+}
+
+.no {
+    position: absolute;
+    
+}
